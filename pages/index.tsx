@@ -10,7 +10,7 @@ export default function Home() {
         <h1 className="m-5 text-xl font-bold">Real-Time Phat hien vat the</h1>
         <Yolo />
         <p className="m-5">
-          Created by{" "}
+          Tạo bởi {" "}
           <a
             className="underline underline-offset-1 hover:translate-y-1"
             href="https://juanjaho.github.io/"
